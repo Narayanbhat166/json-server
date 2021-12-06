@@ -1,11 +1,12 @@
 {
-    "posts": [
+    "blogs": [
       {
         "id": 1,
-        "title": "hello"
+        "title": "Introduction to quicksort"
+      },
+      {
+        "id": 2,
+        "title": "Cloud Computing A to Z"
       }
-    ],
-    "profile": {
-      "name": "narayan"
-    }
+    ]
   }
